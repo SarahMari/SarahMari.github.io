@@ -1,2 +1,5 @@
-# SarahMari.github.io
-#this is my readme
+# My name is Sarah Nagy
+
+Welcome to my GitHub Pages!
+
+I am currently learning Data Science and Machine Learning. 
